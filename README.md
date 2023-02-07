@@ -25,4 +25,4 @@ A function "updateBigCup was created to determine the measurement of water neede
 
 ### Project Link
 This project is hosted on netlify.
-(drink-water-app)[https://drink-water-app-project.netlify.app/]
+[Drink water project](https://drink-water-app-project.netlify.app/)
